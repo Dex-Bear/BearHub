@@ -1,6 +1,7 @@
 Config = {
-    namescript = "Test",--Tên Script
-    logoscript = "117390141608083",--ID Logo Script
-    tacgia = "sadas"-- Tên Tác Giả
+    namescript = "BearHub",--Tên Script
+    logoscript = "81732807277202",--ID Logo Script
+    tacgia = "Đex"-- Tên Tác Giả
 }
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nghia11n/Phong-Roblox/refs/heads/main/phonghub.lua"))()
