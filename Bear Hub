@@ -3,4 +3,4 @@ Config = {
     logoscript = "81732807277202",--ID Logo Script
     tacgia = "Dex"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nghia11n/Phong-Roblox/refs/heads/main/phonghub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
